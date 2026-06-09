@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Projeto local
+Ambiente_Concursos/
+pcileecher/
+pdf_images/
+data/concursos_cache*.json
+
+# Artefatos de execucao
+ConcursosAtivos.csv
+*.pdf
+*.txt
+*.structured.json
+*.unstructured.json
